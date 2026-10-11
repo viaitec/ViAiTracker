@@ -177,7 +177,5 @@ ViAiTracker is distributed as a prebuilt SDK. To evaluate it on your own hardwar
 **VIAITEC** - Vietnamese AI Technology
 
 - Website: [viaitec.com](https://viaitec.com/?utm_source=github&utm_medium=readme)
-- Email: [info@viaitec.com](mailto:info@viaitec.com)
-- Phone: +84 974 139 366
 
 <sub>© <a href="https://viaitec.com/?utm_source=github&utm_medium=readme&utm_content=footer">VIAITEC</a>. All rights reserved.</sub>

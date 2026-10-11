@@ -177,7 +177,5 @@ ViAiTracker được cung cấp dưới dạng SDK đã biên dịch sẵn. Đ�
 **VIAITEC** - Công nghệ trí tuệ nhân tạo Việt
 
 - Website: [viaitec.com](https://viaitec.com/vi/?utm_source=github&utm_medium=readme)
-- Email: [info@viaitec.com](mailto:info@viaitec.com)
-- Điện thoại: +84 974 139 366
 
 <sub>© <a href="https://viaitec.com/vi/?utm_source=github&utm_medium=readme&utm_content=footer">VIAITEC</a>. All rights reserved.</sub>
