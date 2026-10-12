@@ -175,11 +175,14 @@ ViAiTracker được cung cấp dưới dạng SDK đã biên dịch sẵn. Đ�
 
 ## Liên hệ
 
+<div align="center">
+
 **VIAITEC** - Công nghệ trí tuệ nhân tạo Việt
 
-- Hỗ trợ: [viaitec.com/vi/contact](https://viaitec.com/vi/contact/)
-- Email: [info@viaitec.com](mailto:info@viaitec.com)
-- Website: [viaitec.com](https://viaitec.com/vi/)
-- YouTube: [@viaitec](https://www.youtube.com/@viaitec)
+| **💬 Hỗ trợ** | **✉️ Email** | **🌐 Website** | **▶️ YouTube** |
+|:-:|:-:|:-:|:-:|
+| [viaitec.com/vi/contact](https://viaitec.com/vi/contact/) | [info@viaitec.com](mailto:info@viaitec.com) | [viaitec.com](https://viaitec.com/vi/) | [@viaitec](https://www.youtube.com/@viaitec) |
+
+</div>
 
 <sub>© <a href="https://viaitec.com/vi/?utm_source=github&utm_medium=readme&utm_content=footer">VIAITEC</a>. All rights reserved.</sub>

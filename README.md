@@ -175,11 +175,14 @@ ViAiTracker is distributed as a prebuilt SDK. To evaluate it on your own hardwar
 
 ## Contact
 
+<div align="center">
+
 **VIAITEC** - Vietnamese AI Technology
 
-- Support: [viaitec.com/contact](https://viaitec.com/contact/)
-- Email: [info@viaitec.com](mailto:info@viaitec.com)
-- Website: [viaitec.com](https://viaitec.com)
-- YouTube: [@viaitec](https://www.youtube.com/@viaitec)
+| **💬 Support** | **✉️ Email** | **🌐 Website** | **▶️ YouTube** |
+|:-:|:-:|:-:|:-:|
+| [viaitec.com/contact](https://viaitec.com/contact/) | [info@viaitec.com](mailto:info@viaitec.com) | [viaitec.com](https://viaitec.com) | [@viaitec](https://www.youtube.com/@viaitec) |
+
+</div>
 
 <sub>© <a href="https://viaitec.com/?utm_source=github&utm_medium=readme&utm_content=footer">VIAITEC</a>. All rights reserved.</sub>
