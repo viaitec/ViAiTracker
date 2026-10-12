@@ -8,9 +8,10 @@
 
 **200+ FPS** on NVIDIA GPUs · **100+ FPS** on 2-6 TOPS edge devices · Windows · macOS · Linux · ARM64
 
-[![Product page](https://img.shields.io/badge/Product_page-viaitec.com-22d3ee?style=for-the-badge&labelColor=0b1830)](https://viaitec.com/products/viaitracker/?utm_source=github&utm_medium=readme&utm_content=badge)
-[![Request a demo](https://img.shields.io/badge/Request-demo-6d28d9?style=for-the-badge&labelColor=0b1830)](https://viaitec.com/products/viaitracker/?utm_source=github&utm_medium=readme&utm_content=badge#request-demo)
-[![YouTube](https://img.shields.io/badge/YouTube-%40viaitec-ff0000?style=for-the-badge&logo=youtube&labelColor=0b1830)](https://www.youtube.com/@viaitec)
+[![Home page](https://img.shields.io/badge/Home_page-0b1830?style=for-the-badge)](https://viaitec.com)
+[![Product page](https://img.shields.io/badge/Product_page-22d3ee?style=for-the-badge)](https://viaitec.com/products/viaitracker/)
+[![Demo](https://img.shields.io/badge/Demo-6d28d9?style=for-the-badge)](https://viaitec.com/products/viaitracker/?utm_source=github&utm_medium=readme&utm_content=badge#request-demo)
+[![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@viaitec)
 
 [Website](https://viaitec.com/products/viaitracker/?utm_source=github&utm_medium=readme) ·
 [Demo videos](#demo-videos) ·
@@ -176,6 +177,9 @@ ViAiTracker is distributed as a prebuilt SDK. To evaluate it on your own hardwar
 
 **VIAITEC** - Vietnamese AI Technology
 
-- Website: [viaitec.com](https://viaitec.com/?utm_source=github&utm_medium=readme)
+- Support: [viaitec.com/contact](https://viaitec.com/contact/)
+- Email: [info@viaitec.com](mailto:info@viaitec.com)
+- Website: [viaitec.com](https://viaitec.com)
+- YouTube: [@viaitec](https://www.youtube.com/@viaitec)
 
 <sub>© <a href="https://viaitec.com/?utm_source=github&utm_medium=readme&utm_content=footer">VIAITEC</a>. All rights reserved.</sub>

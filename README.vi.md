@@ -8,9 +8,10 @@
 
 **200+ FPS** trên GPU NVIDIA · **100+ FPS** trên thiết bị biên 2-6 TOPS · Windows · macOS · Linux · ARM64
 
-[![Trang sản phẩm](https://img.shields.io/badge/Trang_s%E1%BA%A3n_ph%E1%BA%A9m-viaitec.com-22d3ee?style=for-the-badge&labelColor=0b1830)](https://viaitec.com/vi/products/viaitracker/?utm_source=github&utm_medium=readme&utm_content=badge)
-[![Yêu cầu demo](https://img.shields.io/badge/Y%C3%AAu_c%E1%BA%A7u-demo-6d28d9?style=for-the-badge&labelColor=0b1830)](https://viaitec.com/vi/products/viaitracker/?utm_source=github&utm_medium=readme&utm_content=badge#request-demo)
-[![YouTube](https://img.shields.io/badge/YouTube-%40viaitec-ff0000?style=for-the-badge&logo=youtube&labelColor=0b1830)](https://www.youtube.com/@viaitec)
+[![Trang chủ](https://img.shields.io/badge/Trang_ch%E1%BB%A7-0b1830?style=for-the-badge)](https://viaitec.com/vi/)
+[![Trang sản phẩm](https://img.shields.io/badge/Trang_s%E1%BA%A3n_ph%E1%BA%A9m-22d3ee?style=for-the-badge)](https://viaitec.com/vi/products/viaitracker/)
+[![Demo](https://img.shields.io/badge/Demo-6d28d9?style=for-the-badge)](https://viaitec.com/vi/products/viaitracker/?utm_source=github&utm_medium=readme&utm_content=badge#request-demo)
+[![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@viaitec)
 
 [Website](https://viaitec.com/vi/products/viaitracker/?utm_source=github&utm_medium=readme) ·
 [Video demo](#video-demo) ·
@@ -176,6 +177,9 @@ ViAiTracker được cung cấp dưới dạng SDK đã biên dịch sẵn. Đ�
 
 **VIAITEC** - Công nghệ trí tuệ nhân tạo Việt
 
-- Website: [viaitec.com](https://viaitec.com/vi/?utm_source=github&utm_medium=readme)
+- Hỗ trợ: [viaitec.com/vi/contact](https://viaitec.com/vi/contact/)
+- Email: [info@viaitec.com](mailto:info@viaitec.com)
+- Website: [viaitec.com](https://viaitec.com/vi/)
+- YouTube: [@viaitec](https://www.youtube.com/@viaitec)
 
 <sub>© <a href="https://viaitec.com/vi/?utm_source=github&utm_medium=readme&utm_content=footer">VIAITEC</a>. All rights reserved.</sub>
